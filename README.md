@@ -21,9 +21,9 @@ This tutorial outlines how to configure osTicket to your organization by creatin
 <h2>Installation Steps</h2>
 
 
-<p>
-First we need to Remote Desktop into the VM created in the osTicket Setup & Installation section
-</p>
+
+First we need to Remote Desktop into the VM created in the [osTicket Setup & Installation](https://github.com/harriscarson1/OsTicket-Setup) section
+
 <p>
 <img src="https://github.com/user-attachments/assets/6220af01-12b8-41ab-be0b-c7267969276b" height="80%" width="80%" alt=""/>
 </p>
