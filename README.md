@@ -171,3 +171,8 @@ Next we are going to configure topics which help to further categorize tickets i
 <img src="https://github.com/user-attachments/assets/6c3e7823-37fb-4dbb-a054-d13c82b10ece" height="80%" width="80%" alt=""/>
 </p>
 <br />
+
+
+In the next section [osTicket Ticket Lifecycle Examples]() we will dive deeper into how these things work in real world examples
+
+
