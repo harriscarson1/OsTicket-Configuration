@@ -173,6 +173,6 @@ Next we are going to configure topics which help to further categorize tickets i
 <br />
 
 
-In the next section [osTicket Ticket Lifecycle Examples]() we will dive deeper into how these things work in real world examples
+In the next section [osTicket Ticket Lifecycle Examples](https://github.com/harriscarson1/OsTicket-Ticket-Lifecycle) we will dive deeper into how these things work in real world examples
 
 
